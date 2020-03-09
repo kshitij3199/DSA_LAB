@@ -1,0 +1,12 @@
+Size of file: 10 
+critical value is 9
+Total time for Newsort is 0.385000 ms.
+Size of file: 100 
+critical value is 9
+Total time for Newsort is 0.266000 ms.
+Size of file: 1000 
+critical value is 9
+Total time for Newsort is 13.740000 ms.
+Size of file: 10000 
+critical value is 5
+Total time for Newsort is 452.373000 ms.
